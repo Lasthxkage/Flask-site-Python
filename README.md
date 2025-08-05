@@ -28,4 +28,4 @@
 
 Страница создания статьи<img width="1918" height="497" alt="{C4FFC5D3-D36C-4310-8F0C-22EFB1C6E7BB}" src="https://github.com/user-attachments/assets/3c7858e4-ce9f-456f-a6a8-459a09e69c3d" />
 
-![Архив статей<img width="1920" height="814" alt="{62A9D90F-E01C-4BB8-ABF4-6E53CC3AC374}" src="https://github.com/user-attachments/assets/b1cc5082-3228-47ba-89fd-54a7e9e2b850" />
+Архив статей<img width="1920" height="814" alt="{62A9D90F-E01C-4BB8-ABF4-6E53CC3AC374}" src="https://github.com/user-attachments/assets/b1cc5082-3228-47ba-89fd-54a7e9e2b850" />
